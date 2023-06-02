@@ -3,8 +3,6 @@ include('partyObj.js');
 include('playerObj.js');
 
 var Partys = [];
-var lastWord;
-var lastTrigger;
 var segunda_ronda=false;
 var primera_ronda=false;
 // crear una nueva party
@@ -48,8 +46,6 @@ function Starting(User){
                party.getPlayers(
                 function(player){
                      user(player.getName()).vroom=party.getVroom();
-                     user(player.getName()).juego=true;
-                     user(player.getName()).turno=false;
                      player.setLife(2);
                 });
                 var letter = String.fromCharCode(97 + Math.floor(Math.random() * 26));
@@ -59,7 +55,6 @@ function Starting(User){
                 party.setSyllable(syllable);
                 //enviar el mensaje en 5 segundos
                 print("Todo listo para inciar...(O) El juego empezara en 5 segundos...");
-                primera_ronda=true;
                 party.setGameStatus(true);
                 res=true;
             }
@@ -122,6 +117,7 @@ var control =0;
 // controlador del tiempo de juego.
 function onTimer(){
    if(control>=5){
+    primera_ronda=true;
     if(primera_ronda==true){
         Partys.forEach(
             function(party){
@@ -196,7 +192,7 @@ function isTrue(text,indexParty){
     Words[letter].forEach(
         function(word){
             if(word==text){
-                print("Bien, el siguiente:")
+                print(Partys[indexParty].getVroom(),"Bien, el siguiente:")
                 segunda_ronda=false;
                 Partys[indexParty].nextPlayerPosition();
                 var position = Partys[indexParty].currentPosition();
@@ -211,10 +207,10 @@ function isTrue(text,indexParty){
             }
         });
       if(!res){
-        print('Te equivocaste apurate...(O)')
+        print(Partys[indexParty].getVroom(),'Te equivocaste apurate...(O)')
       }
   } else {
-   print(Party[indexParty].getVroom(),"\x0304\x06"+Party[indexParty].setCurrentPlayer()+"\x0301\x06 Palabra incorrecta, Te queda poco tiempo, rapido(O)")
+   print(Partys[indexParty].getVroom(),"\x0304\x06"+Party[indexParty].setCurrentPlayer()+"\x0301\x06 Palabra incorrecta, Te queda poco tiempo, rapido(O)")
   }
 }
 //obtener respuesta de los jugadores.

@@ -6,8 +6,6 @@ function Party(name){
   this._partyCurrentPlayer;
   this._partyGame=false;
   this._partyPlayerPosition=0;
-  this._partyWord;
-  this._partyLastWord;
   this._partyTimer=12;
   this._syllable;
  
