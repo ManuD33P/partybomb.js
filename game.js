@@ -179,6 +179,8 @@ function onTimer(){
                     user(UserModerator).moderador =true;
                     var newUser = new Player(party.getName());
                     party.addPlayer(newUser);
+                    party.setCurrentPlayer(newUser.getName());
+                    party._partyPlayerPosition=0;
                 }
             
             }
