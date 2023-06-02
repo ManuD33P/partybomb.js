@@ -20,7 +20,7 @@ Player.prototype.setLife = function(num){
 }
 //resta 1 vida
 Player.prototype.fail = function(){
-    this._life--;
+    this._life -=1;
 }
 //obtiene la cantidad de veces seguidas que gano
 Player.prototype.getScore = function(){

@@ -9,7 +9,7 @@ function onCommand(User,Command,Target,Args){
     if(Command=='openParty'){
     var vroom= newParty(User.name);
     //enviar el resultado de la operación.
-    print(User.name+' ha creado una una party, su vroom asignada es: '+vroom);
+    print("\x0304\x06"+User.name+'\x0301\x06 ha creado una una party, su vroom asignada es: \x0304\x06'+vroom);
     User.moderador=true;
     }
 
@@ -19,20 +19,14 @@ function onCommand(User,Command,Target,Args){
       var res = joinParty(temp,User.name);
       //enviar resultado de la operación.
       if(res){
-        print(User.name+' ha ingresado a la party numero: '+temp);
+        print("\x0304\x06"+User.name+'\x0301\x06 ha ingresado a la party numero: \x0304\x06'+temp);
       } else {
-        print(User.name+' esa party no exíste');
+        print("\x0304\x06"+User.name+'\x0301\x06 esa party no exíste');
       }
     }
 
     //enviar todos los usuarios de la party a su vroom correspondiente.
     if(Command=='ready' && User.moderador){
        var temp = Starting(User);
-        if(temp){
-         print(User.name+' ha iniciado el juego todos los players han sido movidos.');
-         print(' El juego empesara en 5 segundos...(O)');
-        } else {
-         print('Error');
-        }
     }
 }

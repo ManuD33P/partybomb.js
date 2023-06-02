@@ -1,14 +1,16 @@
 
 function Party(name){
   this._partyName = name;
-  this._partyVroom;
+  this._partyVroom=0;
   this._partyPlayers = [];
   this._partyCurrentPlayer;
   this._partyGame=false;
   this._partyPlayerPosition=0;
   this._partyWord;
   this._partyLastWord;
-  this._partyTimer=8;
+  this._partyTimer=12;
+  this._syllable;
+ 
 }
 //constructor
 Party.prototype.constructor=Party;
@@ -47,14 +49,8 @@ Party.prototype.addPlayer= function(playerObj){
     this._partyPlayers.push(playerObj);
 }
 //elimina un player de la party
-Party.prototype.remPlayer= function(nickName){
-    this._partyPlayers.forEach(
-      function(objPlayer,index){
-        if(objPlayer.getName()==nickName)
-        this._partyPlayers.splice(index,1);
-      }
-    )
-  return false;
+Party.prototype.remPlayer= function(indexPlayer){
+     this._partyPlayers.splice(indexPlayer,1);
 }
 //obtener los players. esta funciona similar a Users.local();
 Party.prototype.getPlayers= function(callback=undefined){
@@ -75,7 +71,7 @@ Party.prototype.getGameStatus=function(){
 }
 //iniciar el tiempo
 Party.prototype.resetTimer = function(){
-   this._partyTimer = Math.floor(Math.random()*(8 - 5)) + 5
+   this._partyTimer = Math.floor(Math.random() * (14 - 8 + 1)) + 8;;
 }
 //restar 1 al tiempo
 Party.prototype.subtractTime = function(){
@@ -100,9 +96,17 @@ Party.prototype.currentPosition = function (){
 }
 //aumentar una posicion.
 Party.prototype.nextPlayerPosition = function(){
-  if(this._partyPlayerPosition==this._partyPlayers.length){
+  if(this._partyPlayerPosition>=this._partyPlayers.length-1){
     this._partyPlayerPosition = 0;
   } else {
   this._partyPlayerPosition++
   }
+}
+//cambiar silaba
+Party.prototype.setSyllable = function(syllable){
+   this._syllable = syllable;
+}
+//obtener silaba
+Party.prototype.getSyllable = function(){
+   return this._syllable;
 }
