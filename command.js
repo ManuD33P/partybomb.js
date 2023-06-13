@@ -16,12 +16,16 @@ function onCommand(User,Cmd,Target,Arg){
       if(players.length>0){
        res = joinParty(User);
       }
-        res ? print('\x06\x0301'+User.name+' \x06\x0301Has estrado a la party'):print('error:function joinParty()');
+        res ? print('\x06\x0301'+User.name+' \x06\x0301Has ingresado a la party'):print('Error: Aun no se ha abierto una party');
     }
     if(Cmd=='ready' && User.moderador){
        if(User.moderador){
          onReady();
          print('\x0301El juego comenzo...(o) \x0304tick-tack');
        }
+    }
+    if(Cmd=='closeParty' && User.moderador){
+      closeParty()
+      delete User.moderador
     }
 }

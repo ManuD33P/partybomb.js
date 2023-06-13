@@ -84,7 +84,7 @@ function nextMessage() {
   var User = players[currentPosition];
   var vroom = currentVroom;
   print(vroom, "");
-  print(vroom,"\x0304\x06"+User.name +"\x06\x0301 Rapidoo...(O) forma una palabra con la silaba: \x06|x0304" +syllable);
+  print(vroom,"\x0304\x06"+User.name +"\x06\x0301 Rapidoo...(O) forma una palabra con la silaba: \x06\x0304" +syllable);
 }
 //proximo player
 function nextPlayer() {
@@ -178,4 +178,17 @@ function onTextAfter(User, text) {
     var formatText = stripColors(text).toLowerCase().trim();
     isTrue(formatText);
   }
+}
+
+function closeParty(){
+  print(currentVroom,'\x0304\x06 Moviendo a los players');
+  playerTime.stop();
+  players.forEach(function(player){
+    user(player.name).vroom=0;
+  });
+  currentPlayer="";
+  currentPosition="";
+  gameStatus=false;
+  players = [];
+  print('\x0301 Party Cerrada, pueden crear una nueva, con el comando /openParty');
 }
