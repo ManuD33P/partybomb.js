@@ -1618,7 +1618,7 @@ urbanizo
 urbanizo
 urbano
 urbe
-urbi et orbi
+urbietorbi
 urca
 urce
 urchilla
@@ -2309,8 +2309,8 @@ utrera
 utrerana
 utrerano
 utrero
-ut retro
-ut supra
+utretro
+utsupra
 uva
 uvada
 uvaduz

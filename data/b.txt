@@ -152,7 +152,7 @@ babucha
 babuchera
 babuchero
 babuino
-baby doll
+babydoll
 baby-sitter
 baca
 bacalada
@@ -6779,7 +6779,7 @@ bel
 bela
 belcantismo
 belcantista
-bel canto
+belcanto
 belcho
 beldad
 belduque
@@ -6879,7 +6879,7 @@ bellaqueo
 bellaqueria
 bellardina
 bellasombra
-belle epoque
+belleepoque
 belleguin
 belleza
 bellida
@@ -7676,7 +7676,7 @@ bestiun
 bestoba
 bestoga
 bestola
-best seller
+bestseller
 besuca
 besuca
 besucaba
@@ -8305,7 +8305,7 @@ bigarrada
 bigarrado
 bigarro
 bigato
-big bang
+bigbang
 bignonia
 bignoniacea
 bignoniaceo
@@ -9724,7 +9724,7 @@ blabla
 bla-bla-bla
 blablabla
 blackjack
-black jack
+blackjack
 black-jack
 blanca
 blancal
@@ -10317,7 +10317,7 @@ bloqueo
 bloqueo
 bloquera
 bloques
-blue jean
+bluejean
 blues
 bluf
 blufileña
@@ -13823,7 +13823,7 @@ boyero
 boyes
 boyo
 boyo
-boy scout
+boyscout
 boyuna
 boyuno
 boza
@@ -14396,7 +14396,7 @@ bread
 breado
 breais
 break
-break dance
+breakdance
 breamos
 brean
 breando

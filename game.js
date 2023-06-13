@@ -47,7 +47,6 @@ playerTime.oncomplete = function () {
 function onReady() {
   if (players.length > 1) {
     for (var player of players) {
-      print(player.name);
       user(player.name).vroom = currentVroom;
       player.life = 2;
     }
@@ -156,18 +155,20 @@ function nextPlayer() {
 function isTrue(text) {
     if (text.indexOf(syllable) !== -1) {
          var initials = text.charAt(0);
-          var res = words[initials].some(function (element) {
-           if (format(element) == text) {
-            return true;
+         var res =false
+ 	 for(var i =0; i < words[initials].length;i++){
+            if(format(words[initials][i])==text){
+                res=true;
             }
-          });
+         }
           if (res) {
               playerTime.stop();
               print(currentVroom, "");
               print(currentVroom, "");
               print(currentVroom,"\x06\x0304" + currentPlayer + "\x0301\x06 Bien... el siguiente");
               nextPlayer();
-          }
+          } else
+	   print(currentVroom,"\x06\x0304" + currentPlayer + "\x0301\x06 Mal... apurate queda poco tiempo(O)");
       } else {
           print(currentVroom,"\x06\x0304" + currentPlayer + "\x0301\x06 Mal... apurate queda poco tiempo(O)");
       }

@@ -232,7 +232,6 @@ chie
 chien
 chies
 chil
-
 chim
 chin
 chio
@@ -657,7 +656,6 @@ fer
 fes
 fet
 feu
-
 fez
 fi
 fia

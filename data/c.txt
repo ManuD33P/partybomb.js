@@ -3407,7 +3407,7 @@ calamocana
 calamocano
 calamocha
 calamoco
-calamo currente
+calamocurrente
 calamon
 calamonarse
 calamorra
@@ -9342,7 +9342,7 @@ capilludo
 capin
 capincho
 capingo
-capin melao
+capinmelao
 capinoteña
 capinoteño
 capio
@@ -12521,7 +12521,7 @@ carpanta
 carpas
 carpe
 carpedal
-carpe diem
+carpediem
 carpelar
 carpelo
 carpen
@@ -14356,7 +14356,7 @@ casuistica
 casuistico
 casulla
 casullero
-casus belli
+casusbelli
 cata
 cata
 cataba
@@ -20141,7 +20141,7 @@ chai
 chaima
 chaira
 chairo
-chaise longue
+chaiselongue
 chaitenina
 chaitenino
 chaja
@@ -23954,7 +23954,7 @@ chelosa
 cheloso
 chemicol
 chenca
-chen chen
+chenchen
 chenchen
 chentina
 chentino
@@ -24918,7 +24918,7 @@ chillo
 chillo
 chillon
 chillona
-chill out
+chillout
 chilmole
 chilmolera
 chilmolero
@@ -36286,7 +36286,7 @@ coiten
 coites
 coito
 coito
-coitus interruptus
+coitusinterruptus
 coja
 cojais
 cojal
@@ -51287,7 +51287,7 @@ contradices
 contradicha
 contradicho
 contradiciendo
-contradictio in terminis
+contradictiointerminis
 contradictor
 contradictora
 contradictoria
@@ -55619,7 +55619,7 @@ coralista
 coralito
 corambre
 corambrero
-coram populo
+corampopulo
 coramvobis
 corana
 coranica
@@ -56626,7 +56626,7 @@ corporeicen
 corporeices
 corporeices
 corporeidad
-corpore insepulto
+corporeinsepulto
 corporeiza
 corporeiza
 corporeiza
@@ -65234,7 +65234,7 @@ cumbrera
 cumel
 cumiche
 cuminol
-cum laude
+cumlaude
 cumpa
 cumpla
 cumplais
@@ -66221,7 +66221,7 @@ currican
 curricular
 curriculo
 curriculum
-curriculum vitae
+curriculumvitae
 currinche
 currita
 currito

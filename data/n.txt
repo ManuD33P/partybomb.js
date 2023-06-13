@@ -2274,7 +2274,7 @@ neme
 nemea
 nemeo
 nemesis
-nemine discrepante
+neminediscrepante
 nemon
 nemonica
 nemonico
@@ -3056,7 +3056,7 @@ niguatoso
 nihilidad
 nihilismo
 nihilista
-nihil obstat
+nihilobstat
 nihonio
 nilad
 nilon
@@ -3682,7 +3682,7 @@ nogueruela
 noli
 noli
 nolicion
-noli me tangere
+nolimetangere
 nolit
 noluntad
 noma
@@ -3960,7 +3960,7 @@ nonagonal
 nonagono
 nonata
 nonato
-non bis in idem
+nonbisinidem
 nonchalance
 noneca
 noneco
@@ -3977,9 +3977,9 @@ nonio
 nonius
 nono
 ñoño
-non plus ultra
-non sancta
-non sancto
+nonplusultra
+nonsancta
+nonsancto
 nonupla
 nonuple
 nonuplica
@@ -4101,9 +4101,9 @@ noquero
 ñora
 norabuena
 noradrenalina
-nora en tal
+noraental
 noramala
-nora tal
+noratal
 noray
 ñorbo
 norcoreana
@@ -4613,7 +4613,7 @@ notabais
 notabamos
 notaban
 notabas
-nota bene
+notabene
 notabilidad
 notable
 notablemente
@@ -5614,7 +5614,7 @@ numerosa
 numerosamente
 numerosidad
 numeroso
-numerus clausus
+numerusclausus
 numida
 numidica
 numidico

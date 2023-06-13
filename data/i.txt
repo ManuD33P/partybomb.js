@@ -3573,7 +3573,7 @@ imputrescible
 imputrible
 inabarcable
 inabordable
-in absentia
+inabsentia
 inacabable
 inacabada
 inacabado
@@ -3709,14 +3709,14 @@ inadvertencia
 inadvertida
 inadvertidamente
 inadvertido
-in aeternum
+inaeternum
 inafectada
 inafectado
 inagotable
 inaguantable
 inalambrica
 inalambrico
-in albis
+inalbis
 inalcanzable
 inalienabilidad
 inalienable
@@ -15254,7 +15254,7 @@ interponian
 interponias
 interponiendo
 interposicion
-interposita persona
+interpositapersona
 interprenda
 interprendais
 interprendamos
@@ -17534,7 +17534,7 @@ invitado
 invitador
 invitadora
 invitais
-invita Minerva
+invitaMinerva
 invitamos
 invitan
 invitando
@@ -17894,9 +17894,9 @@ ipseidad
 ipsi
 ipsilateral
 ipsilon
-ipso facto
-ipso iure
-ipso jure
+ipsofacto
+ipsoiure
+ipsojure
 iqueña
 iqueño
 iquiqueña
@@ -18977,7 +18977,7 @@ itineraria
 itinerario
 itrio
 itzaj
-iuris et de iure
+iurisetdeiure
 iusnaturalista
 iverna
 iverna

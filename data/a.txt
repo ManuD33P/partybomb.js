@@ -181,7 +181,7 @@ abadi
 abadia
 abadiado
 abadiato
-ab aeterno
+abaeterno
 abaja
 abaja
 abajaba
@@ -29329,9 +29329,6 @@ agnostica
 agnosticismo
 agnostico
 agnus
-agnus Dei
-agnusdei
-agobia
 agobia
 agobiaba
 agobiabais
@@ -29356,12 +29353,9 @@ agobiaramos
 agobiaran
 agobiaran
 agobiaras
-agobiaras
 agobiare
 agobiare
 agobiareis
-agobiareis
-agobiaremos
 agobiaremos
 agobiaren
 agobiares
@@ -38242,7 +38236,6 @@ aleabas
 aleacion
 alead
 aleado
-alea iacta est
 aleais
 aleamos
 alean
@@ -44003,7 +43996,7 @@ alterco
 alterco
 altere
 altere
-alter ego
+alterego
 altereis
 alteremos
 alteren
@@ -56369,7 +56362,7 @@ anjova
 annamita
 annobones
 annobonesa
-annus horribilis
+annushorribilis
 ano
 año
 anoa
@@ -57433,7 +57426,7 @@ antedato
 antedespacho
 antedicha
 antedicho
-ante diem
+antediem
 antediluviana
 antediluviano
 anteferir
@@ -70598,7 +70591,7 @@ arasen
 arases
 araste
 arasteis
-arate cavate
+aratecavate
 aratoria
 aratorio
 araucana
@@ -71813,7 +71806,7 @@ arestil
 arestin
 arestinada
 arestinado
-ares y mares
+ares
 aretalogia
 aretalogica
 aretalogico
@@ -78745,7 +78738,7 @@ artado
 artal
 artanica
 artanita
-art deco
+artdeco
 arte
 artefacto
 artejo
@@ -91733,7 +91726,6 @@ aura
 auranciacea
 auranciaceo
 aurea
-aurea mediocritas
 aurelianense
 aureo
 aureola

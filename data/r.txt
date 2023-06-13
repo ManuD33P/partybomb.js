@@ -13,7 +13,7 @@ rabaniza
 rabano
 rabarbaro
 rabasaire
-rabassa morta
+rabassamorta
 rabazo
 rabazuz
 rabdomancia
@@ -2825,7 +2825,7 @@ raquitico
 raquitis
 raquitismo
 rara
-rara avis
+raraavis
 raramente
 raramuri
 rarea
@@ -4152,7 +4152,7 @@ rasuro
 rata
 ratafia
 ratania
-rata parte
+rataparte
 rataplan
 ratea
 ratea
@@ -5409,7 +5409,7 @@ realistica
 realistico
 realito
 reality
-reality show
+realityshow
 realiza
 realiza
 realizaba
@@ -22979,7 +22979,7 @@ relataras
 relataras
 relatare
 relatare
-relata refero
+relatarefero
 relatareis
 relatareis
 relataremos
@@ -31935,7 +31935,7 @@ requiere
 requieren
 requieres
 requiero
-requiescat in pace
+requiescatinpace
 requilorio
 requinta
 requinta
@@ -42370,7 +42370,7 @@ rigodon
 rigor
 rigorismo
 rigorista
-rigor mortis
+rigormortis
 rigorosa
 rigorosamente
 rigoroso
@@ -43904,7 +43904,7 @@ rocio
 rocio
 rocion
 rock
-rock and roll
+rockandroll
 rockodromo
 roco
 rococo
@@ -47227,7 +47227,7 @@ rumorologia
 rumorosa
 rumoroso
 rumpiata
-rum rum
+rumrum
 run
 runa
 ruña
@@ -47731,8 +47731,6 @@ rutilaras
 rutilare
 rutilare
 rutilareis
-rutilareis
-rutilaremos
 rutilaremos
 rutilaren
 rutilares
@@ -47743,7 +47741,6 @@ rutilarian
 rutilarias
 rutilaron
 rutilas
-rutilas
 rutilase
 rutilaseis
 rutilasemos
@@ -47752,13 +47749,10 @@ rutilases
 rutilaste
 rutilasteis
 rutile
-rutile
 rutileis
 rutilemos
 rutilen
 rutiles
-rutilo
-rutilo
 rutilo
 rutina
 rutinaria

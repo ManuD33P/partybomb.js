@@ -1369,7 +1369,7 @@ laido
 lailan
 lairen
 laismo
-laissez faire
+laissezfaire
 laista
 laja
 lajazo
@@ -2961,8 +2961,8 @@ lapona
 lapsa
 lapso
 lapsus
-lapsus calami
-lapsus linguae
+lapsuscalami
+lapsuslinguae
 laque
 laque
 laquea
@@ -3968,7 +3968,7 @@ latonera
 latoneria
 latonero
 latosa
-lato sensu
+latosensu
 latoso
 latreutica
 latreutico
@@ -4169,7 +4169,7 @@ laurino
 laurisilva
 lauro
 lauroceraso
-laus Deo
+lausDeo
 lauta
 lautamente
 lauto
@@ -7557,7 +7557,7 @@ lignifiquen
 lignifiques
 lignina
 lignito
-lignum crucis
+lignumcrucis
 ligo
 ligo
 ligon
@@ -10537,7 +10537,7 @@ locha
 loche
 locion
 loco
-loco citato
+lococitato
 locomocion
 locomotor
 locomotora

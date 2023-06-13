@@ -1618,7 +1618,7 @@ maginar
 magio
 magio
 magister
-magister dixit
+magisterdixit
 magisterial
 magisterio
 magistrada
@@ -7954,7 +7954,7 @@ manufacturero
 manufactures
 manufacturo
 manufacturo
-manu militari
+manumilitari
 manumisa
 manumision
 manumiso
@@ -11289,7 +11289,7 @@ masqueis
 masquemos
 masquen
 masques
-mass media
+massmedia
 mastaba
 mastate
 maste
@@ -12972,7 +12972,7 @@ meabais
 meabamos
 meaban
 meabas
-mea culpa
+meaculpa
 mead
 meada
 meadero
@@ -20875,7 +20875,7 @@ mixtificador
 mixtificadora
 mixtificar
 mixtifori
-mixti fori
+mixtifori
 mixtilinea
 mixtilineo
 mixtion
@@ -21708,8 +21708,8 @@ modulosa
 moduloso
 modurria
 modus
-modus operandi
-modus vivendi
+modusoperandi
+modusvivendi
 moer
 mofa
 mofa
@@ -25426,7 +25426,7 @@ mortiñada
 mortinata
 mortinato
 mortiño
-mortis causa
+mortiscausa
 mortuoria
 mortuorio
 morucho
@@ -26150,7 +26150,7 @@ motril
 motriz
 motuda
 motudo
-motu proprio
+motuproprio
 mousse
 movais
 movamos
@@ -28513,7 +28513,7 @@ mutasen
 mutases
 mutaste
 mutasteis
-mutatis mutandis
+mutatismutandis
 mute
 mute
 muteis
@@ -28571,19 +28571,15 @@ mutilases
 mutilaste
 mutilasteis
 mutile
-mutile
 mutileis
 mutilemos
 mutilen
 mutiles
 mutilo
-mutilo
-mutilo
 mutilon
 mutilona
 mutis
 mutismo
-muto
 muto
 mutua
 mutual
@@ -28599,5 +28595,4 @@ mutuatario
 mutuo
 muy
 muyahidin
-muy muy
 muzarabe

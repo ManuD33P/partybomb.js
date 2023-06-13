@@ -7805,7 +7805,7 @@ sensualista
 sensualmente
 sensuntepecana
 sensuntepecano
-sensu stricto
+sensustricto
 senta
 sentaba
 sentabais
@@ -9380,7 +9380,7 @@ sexan
 sexando
 sexangula
 sexangulo
-sex appeal
+sexappeal
 sex-appeal
 sexar
 sexara
@@ -9437,9 +9437,9 @@ sexologia
 sexologica
 sexologico
 sexologo
-sex shop
+sexshop
 sex-shop
-sex symbol
+sexsymbol
 sex-symbol
 sexta
 sextaferia
@@ -9638,7 +9638,7 @@ sherpa
 shock
 short
 show
-show business
+showbusiness
 showman
 show-woman
 shuar
@@ -11490,9 +11490,9 @@ sindromica
 sindromico
 sinecdoque
 sinecura
-sine die
+sinedie
 sinedrio
-sine qua non
+sinequanon
 sineresis
 sinergia
 sinergica
@@ -11623,7 +11623,7 @@ singuemos
 singuen
 singues
 singular
-singularia tantum
+singulariatantum
 singularice
 singularice
 singulariceis
@@ -21897,7 +21897,7 @@ sotorrey
 sotreta
 sotrozo
 sottovoce
-sotto voce
+sottovoce
 sotuer
 soturna
 soturno
@@ -21976,14 +21976,14 @@ spot
 spray
 sprint
 squash
-stabat mater
+stabatmater
 stand
 standing
-statu quo
+statuquo
 stent
 stock
 stop
-stricto sensu
+strictosensu
 striptease
 su
 suaba
@@ -24859,7 +24859,7 @@ suicido
 suicido
 suido
 suigeneris
-sui generis
+suigeneris
 suinda
 suiriri
 suite

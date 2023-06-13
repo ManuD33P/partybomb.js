@@ -88262,7 +88262,7 @@ evoquen
 evoques
 ex
 exabrupto
-ex abrupto
+exabrupto
 exaccion
 exacerba
 exacerba
@@ -88324,7 +88324,7 @@ exactamente
 exactitud
 exacto
 exactor
-ex aequo
+exaequo
 exagera
 exagera
 exageraba
@@ -88872,7 +88872,7 @@ excepta
 exceptador
 exceptadora
 exceptar
-exceptio veritatis
+exceptioveritatis
 exceptiva
 exceptivo
 excepto

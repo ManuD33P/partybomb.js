@@ -184,7 +184,7 @@ obispes
 obispillo
 obispo
 obispo
-obiter dictum
+obiterdictum
 obito
 obituario
 objecion
@@ -4154,7 +4154,7 @@ operamos
 operan
 operando
 operante
-opera prima
+operaprima
 operar
 operara
 operara
@@ -7512,7 +7512,6 @@ ozonizarian
 ozonizarias
 ozonizaron
 ozonizas
-ozonizas
 ozonizase
 ozonizaseis
 ozonizasemos
@@ -7521,8 +7520,6 @@ ozonizases
 ozonizaste
 ozonizasteis
 ozonizo
-ozonizo
 ozono
 ozonometro
-ozonosfera
 ozonosfera

@@ -1,5 +1,4 @@
 vaca
-vaca
 vacaba
 vacabais
 vacabamos
@@ -361,13 +360,13 @@ vademecum
 vadeo
 vadeo
 vadera
-vade retro
+vaderetro
 vadiana
 vadiano
 vado
 vadosa
 vadoso
-vae victis
+vaevictis
 vafear
 vafo
 vafosa
@@ -3299,7 +3298,7 @@ veliquemos
 veliquen
 veliques
 velis
-velis nolis
+velisnolis
 velite
 velivola
 velivolo
@@ -4319,7 +4318,7 @@ vera
 veracidad
 veracruzana
 veracruzano
-vera effigies
+veraeffigies
 veragua
 veragüense
 veramente
@@ -4619,7 +4618,7 @@ verberes
 verbero
 verbero
 verbigracia
-verbi gratia
+verbigratia
 verbo
 verborragia
 verborrea
@@ -6045,7 +6044,7 @@ viable
 viacheña
 viacheño
 viacrucis
-via crucis
+viacrucis
 viada
 viadera
 viador
@@ -9155,7 +9154,7 @@ vivasen
 vivases
 vivaste
 vivasteis
-viva voce
+vivavoce
 vivaz
 vive
 vive
@@ -10392,7 +10391,7 @@ votivo
 voto
 voto
 votri
-vox populi
+voxpopuli
 voy
 voyerismo
 voyerista

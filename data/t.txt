@@ -478,7 +478,7 @@ tabulad
 tabulado
 tabulador
 tabuladora
-tabula gratulatoria
+tabulagratulatoria
 tabulais
 tabulamos
 tabulan
@@ -492,7 +492,7 @@ tabularan
 tabularan
 tabularas
 tabularas
-tabula rasa
+tabularasa
 tabulare
 tabulare
 tabulareis
@@ -9696,7 +9696,7 @@ ticonico
 tictac
 ticuco
 ticuriche
-tie break
+tiebreak
 tiembla
 tiemblan
 tiemblas
@@ -12426,7 +12426,7 @@ togais
 togamos
 togan
 togando
-toga picta
+togapicta
 togara
 togara
 togarais
@@ -14548,9 +14548,9 @@ totovia
 totuma
 totumo
 totumpote
-totum revolutum
+totumrevolutum
 tour
-tour de force
+tourdeforce
 tournee
 tova
 toxemia
@@ -24754,7 +24754,7 @@ troceo
 troces
 trocha
 trochemoche
-troche y moche
+trocheymoche
 trocir
 trociscar
 trocisco

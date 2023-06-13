@@ -8,7 +8,7 @@ habanero
 habano
 habar
 habe
-habeas corpus
+habeascorpus
 habed
 habedera
 habedero
@@ -1718,7 +1718,7 @@ hazañoso
 hazmerreir
 he
 heavy
-heavy metal
+heavymetal
 hebdomada
 hebdomadaria
 hebdomadariamente
@@ -7959,7 +7959,7 @@ honorifiqueis
 honorifiquemos
 honorifiquen
 honorifiques
-honoris causa
+honoriscausa
 honoro
 honoro
 honorosa
@@ -8890,7 +8890,7 @@ horrorizo
 horrorosa
 horrorosamente
 horroroso
-horror vacui
+horrorvacui
 horrura
 hortal
 hortaliza
@@ -11316,7 +11316,6 @@ huyeseis
 huyesemos
 huyesen
 huyeses
-huyo
 huyo
 huyuya
 huyuyo

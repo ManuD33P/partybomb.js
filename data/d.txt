@@ -6,7 +6,7 @@ dabas
 dable
 daca
 daca
-da capo
+dacapo
 dacha
 dacia
 dacio
@@ -179,7 +179,7 @@ dajabonero
 dajao
 dala
 dalaga
-dalai lama
+dalailama
 dalgo
 dalia
 daliniana
@@ -4977,7 +4977,7 @@ deliremos
 deliren
 delires
 delirio
-delirium tremens
+deliriumtremens
 deliro
 deliro
 delitescencia
@@ -6810,7 +6810,7 @@ denuncies
 denuncio
 denuncio
 deodara
-deo gracias
+deogracias
 deontologia
 deontologica
 deontologico
@@ -73634,7 +73634,7 @@ deudor
 deudora
 deudosa
 deudoso
-deus ex machina
+deusexmachina
 deuteragonista
 deuterio
 deuteron
@@ -75366,7 +75366,7 @@ diesemos
 diesen
 dieses
 diesi
-dies irae
+diesirae
 diesis
 diestra
 diestramente

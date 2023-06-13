@@ -794,7 +794,7 @@ fainera
 faineria
 faino
 faique
-fair play
+fairplay
 faisan
 faisana
 faisanera
@@ -2747,7 +2747,7 @@ fatalizo
 fatalizo
 fatalmente
 fatamorgana
-fata morgana
+fatamorgana
 fatica
 fatico
 fatidica
@@ -7447,7 +7447,7 @@ flatulenta
 flatulento
 flatuosa
 flatuoso
-flatus vocis
+flatusvocis
 flaubertiana
 flaubertiano
 flauta
@@ -9169,7 +9169,7 @@ foguereo
 foguereo
 foguero
 foguista
-foie gras
+foiegras
 foie-gras
 foisa
 foiso
@@ -11196,7 +11196,7 @@ fovea
 fovismo
 fovista
 foxino
-fox terrier
+foxterrier
 foxtrot
 foya
 frac
@@ -12281,7 +12281,7 @@ frecuentes
 frecuento
 frecuento
 fredo
-free lance
+freelance
 frega
 fregaba
 fregabais
@@ -14222,7 +14222,7 @@ fulleresco
 fulleria
 fullero
 fullona
-full time
+fulltime
 fulmar
 fulmicoton
 fulmina

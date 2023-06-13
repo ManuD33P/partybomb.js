@@ -3141,8 +3141,8 @@ paneles
 panelista
 panelo
 panelo
-pane lucrando
-panem et circenses
+panelucrando
+panemetcircenses
 panenteismo
 paneo
 panera
@@ -9584,7 +9584,7 @@ pecaste
 pecasteis
 pecatriz
 pecblenda
-peccata minuta
+peccataminuta
 pece
 peceña
 peceño
@@ -12528,7 +12528,7 @@ pequin
 pequines
 pequinesa
 pera
-per accidens
+peraccidens
 perada
 peragrar
 peraile
@@ -12598,7 +12598,7 @@ percan
 percance
 percanzar
 percapita
-per capita
+percapita
 percata
 percata
 percataba
@@ -15871,7 +15871,7 @@ personamiento
 personamos
 personan
 personando
-persona non grata
+personanongrata
 personara
 personara
 personarais
@@ -17537,9 +17537,9 @@ piano
 pianoforte
 pianofortista
 pianola
-pian pian
-pian pianito
-pian piano
+pianpian
+pianpianito
+pianpiano
 pianta
 pianta
 piantaba
@@ -23748,9 +23748,9 @@ playaste
 playasteis
 playazo
 playback
-play back
+playback
 playboy
-play boy
+playboy
 playe
 playe
 playeis
@@ -24070,7 +24070,7 @@ plisen
 plises
 pliso
 pliso
-plis plas
+plisplas
 plof
 ploma
 ploma
@@ -24345,7 +24345,7 @@ plumosa
 plumoso
 plumula
 plural
-pluralia tantum
+pluraliatantum
 pluralice
 pluralice
 pluraliceis
@@ -24434,9 +24434,9 @@ pluscafe
 pluscuamperfecto
 plusmarca
 plusmarquista
-plus minusve
+plusminusve
 pluspeticion
-plus ultra
+plusultra
 plusvalia
 pluteo
 plutocracia
@@ -26655,7 +26655,7 @@ popariamos
 poparian
 poparias
 poparon
-pop art
+popart
 popas
 popas
 popase
@@ -28948,7 +28948,7 @@ praderosa
 praderoso
 pradial
 prado
-prae manibus
+praemanibus
 pragmatica
 pragmatico
 pragmatismo
@@ -34084,8 +34084,8 @@ primacial
 primad
 primada
 primado
-prima donna
-prima facie
+primadonna
+primafacie
 primais
 primal
 primala
@@ -34292,7 +34292,7 @@ primula
 primulacea
 primulaceo
 primus
-primus inter pares
+primusinterpares
 princeps
 princesa
 principada
@@ -37746,7 +37746,7 @@ propretura
 propria
 propriedad
 proprio
-propter nuptias
+propternuptias
 propuesta
 propuesto
 propugna
