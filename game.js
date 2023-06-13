@@ -138,14 +138,11 @@ function nextPlayer() {
   //si es 1 solo mando mensaje de ganador y salgo de la funcion.
   if (counterPlayer == 1) {
     //enviar mensaje de ganador al proximo participante
-    print(currentVroom, "");
-    print(currentVroom, "");
-    print(currentVroom, "");
-    print(currentVroom, "");
-    print(
-      vroom,
-      "\x0304\x06" + currentPlayer + "\x06\x0301 Ha ganado la partida"
-    );
+    print(vroom, "");
+    print(vroom, "");
+    print(vroom,"\x0304\x06" + currentPlayer + "\x06\x0301 Ha ganado la partida");
+    print(vroom,"");
+    print(vroom,"\x0304\x06Para volver a jugar el moderador tiene que dar /ready"); 
     gameStatus = false;
     playerTime.stop();
     return true;
