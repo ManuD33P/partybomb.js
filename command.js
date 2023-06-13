@@ -1,9 +1,9 @@
 include('game.js');
-
+var moderador
 function onCommand(User,Cmd,Target,Arg){
     if(Cmd=='openParty'){
         User.moderador=true;
-        print(players.length);
+        moderador=User.name
         if(players.length)
         print(User.name+'  \x0301 Ya existe un moderador');
         else {
@@ -28,4 +28,9 @@ function onCommand(User,Cmd,Target,Arg){
       closeParty()
       delete User.moderador
     }
+}
+
+function onJoin(User){
+if(User.name==moderador)
+  User.moderador=true;
 }
