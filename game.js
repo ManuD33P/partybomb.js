@@ -7,6 +7,7 @@ var currentPosition = 0;
 var timerPlayer = 8;
 var gameStatus = false;
 var syllable = "";
+openFile();
 
 function openParty(User) {
   var player = new UserPlayer(User.name);
@@ -35,7 +36,7 @@ playerTime.oncomplete = function () {
       currentVroom,
       "\x06\x0304" +
         currentPlayer +
-        "\x0301\x06 Se te acabo el tiempo, tienes 1 resta una vida, Total: \x0304\x06" +
+        "\x0301\x06 Se te acabo el tiempo, 1  una vida menos, te quedan: \x0304\x06" +
         players[currentPosition].life
     );
     print(currentVroom, "");
@@ -112,10 +113,10 @@ function nextPlayer() {
       break;
     }
     //activar la primera condicion, despues de que i sea = a currentPosition
-    if (currentPosition == i) {
+    if (currentPosition === i) {
       boleano = true;
       //si currentPosition esta en la ultima posicion activo ultimate.
-      if (currentPosition == players.length - 1) ultimate = true;
+      if (currentPosition === players.length - 1) ultimate = true;
     }
     // se ultimate esta activado
     if (ultimate) {
@@ -135,7 +136,7 @@ function nextPlayer() {
   currentPlayer = players[nextplayerPosition].name;
   currentPosition = nextplayerPosition;
   //si es 1 solo mando mensaje de ganador y salgo de la funcion.
-  if (counterPlayer == 1) {
+  if (counterPlayer === 1) {
     //enviar mensaje de ganador al proximo participante
     print(vroom, "");
     print(vroom, "");
@@ -144,6 +145,10 @@ function nextPlayer() {
     print(vroom,"\x0304\x06Para volver a jugar el moderador tiene que dar /ready"); 
     gameStatus = false;
     playerTime.stop();
+
+    players.forEach(function(player){
+      user(player.name).vroom=0;
+    });
     return true;
   }
   //si counter no es 1 la funcion continuara, y mandara el mensaje al jugador actual.
@@ -153,15 +158,9 @@ function nextPlayer() {
   playerTime.start();
 }
 function isTrue(text) {
-    if (text.indexOf(syllable) !== -1) {
-         var initials = text.charAt(0);
-         var res =false
- 	 for(var i =0; i < words[initials].length;i++){
-            if(format(words[initials][i])==text){
-                res=true;
-            }
-         }
-          if (res) {
+    if (text.indexOf(syllable) !== -1) {            
+            
+          if (words.hasKey(text)) {
               playerTime.stop();
               print(currentVroom, "");
               print(currentVroom, "");

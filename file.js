@@ -1,21 +1,17 @@
-var words = {}
+include('hashtable.js');
+var words = new Hashtable();
+
 var syllables = [];
 function openFile() {
+
 //     abrir archivo diccionario, para almacenar el cache.
-var array
-  for (
-    var letra = "a";
-    letra <= "z";
-    letra = String.fromCharCode(letra.charCodeAt(0) + 1)
-  ) {
-    words[letra] = File.load(letra + ".txt").split("\n");
+  var diccionary = JSON.parse(File.load('resultado.txt'));
+  words.inserTable(diccionary);
+
+  if(File.exists("silaba.txt")){
+    syllables = JSON.parse(File.load("silaba.txt"))
   }
-  syllables=File.load("silabas.txt").split("\n");;
-  syllables = syllables.filter(function (element) {
-    if (element) {
-      return element;
-    }
-  });  
+  
   return true;
 }
 //elimina caracteres invisibles.

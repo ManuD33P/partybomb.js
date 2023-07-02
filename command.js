@@ -1,7 +1,7 @@
 include('game.js');
 var moderador
 function onCommand(User,Cmd,Target,Arg){
-    if(Cmd=='openParty'){
+    if(Cmd==='openParty'){
         User.moderador=true;
         moderador=User.name
         if(players.length)
@@ -11,26 +11,25 @@ function onCommand(User,Cmd,Target,Arg){
         print(User.name+' \x0301Ha creado una party la vroom asignada es 1');
          }
     }
-    if(Cmd=='joinParty'){
+    if(Cmd==='joinParty'){
       var res
       if(players.length>0){
        res = joinParty(User);
       }
         res ? print('\x06\x0301'+User.name+' \x06\x0301Has ingresado a la party'):print('Error: Aun no se ha abierto una party');
     }
-    if(Cmd=='ready' && User.moderador){
+    if(Cmd==='ready' && User.moderador){
        if(User.moderador){
          onReady();
-         print('\x0301El juego comenzo...(o) \x0304tick-tack');
        }
     }
-    if(Cmd=='closeParty' && User.moderador){
+    if(Cmd==='closeParty' && User.moderador){
       closeParty()
       delete User.moderador
     }
 }
 
 function onJoin(User){
-if(User.name==moderador)
+if(User.name===moderador)
   User.moderador=true;
 }
